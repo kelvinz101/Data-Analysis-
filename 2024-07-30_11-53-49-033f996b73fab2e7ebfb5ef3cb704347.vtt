@@ -1,0 +1,181 @@
+WEBVTT
+
+00:00.620 --> 00:07.100
+In today's tutorial, we are going to cover a topic that can be incredibly useful when you are working
+
+00:07.100 --> 00:13.400
+with the data formatting, merging, and splitting cells in Excel.
+
+00:13.400 --> 00:21.890
+Whether you are organizing data, creating reports, or designing tables, knowing how to merge and
+
+00:21.980 --> 00:26.570
+space cells effectively can save you a lot of time and effort.
+
+00:26.570 --> 00:29.540
+So so let's dive right in.
+
+00:30.050 --> 00:33.710
+So first step let's talk about the merging cells.
+
+00:34.700 --> 00:44.090
+So merging cells in Excel allows you to combine two or more cells into a single larger cell.
+
+00:44.120 --> 00:55.080
+This can be a handy for creating endings and labels or formattings or uh, like uh that are formatting
+
+00:55.080 --> 00:55.890
+tables.
+
+00:55.890 --> 00:58.800
+So let me show you how it's done.
+
+00:58.800 --> 00:59.430
+Okay.
+
+01:00.750 --> 01:08.760
+So like here, if you want to use something about like the informations or info or this one, I will
+
+01:08.760 --> 01:10.200
+just want to use it.
+
+01:10.200 --> 01:13.470
+This is kind of the info under the info.
+
+01:13.500 --> 01:18.570
+I want to use this one as the like the name and also the age over here.
+
+01:18.610 --> 01:21.430
+Okay, so now here I go.
+
+01:21.460 --> 01:25.360
+If I want to use also our maps.
+
+01:25.360 --> 01:29.980
+Also those those two cells over here, I can easily do it.
+
+01:29.980 --> 01:36.130
+First one you need to select the cell and go to the home tab on the Excel ribbon.
+
+01:38.710 --> 01:47.910
+Now look for the Merge and Center button in the island group okay, so click on the arrow next to it
+
+01:47.910 --> 01:48.270
+okay.
+
+01:48.270 --> 01:55.080
+So and you will see a few options which is align and the content of the middle or more cells.
+
+01:55.950 --> 02:03.750
+And also the uh like you can you will find the merge across or the merge cells over here.
+
+02:04.170 --> 02:04.950
+Okay.
+
+02:05.550 --> 02:10.760
+Uh I will just use the UC or the merge and the center for now.
+
+02:10.760 --> 02:12.020
+Click over here.
+
+02:12.020 --> 02:12.650
+Okay.
+
+02:12.650 --> 02:20.540
+So you see the the selected cells are merged into a single cells within a content center.
+
+02:21.320 --> 02:22.820
+It's a simple as that.
+
+02:22.820 --> 02:23.390
+Okay.
+
+02:24.710 --> 02:30.050
+If I want to make it in a single row I want to make it the single row.
+
+02:30.080 --> 02:32.500
+This one I can just click over here.
+
+02:32.590 --> 02:36.940
+Marcia Sanders, you can now see it comes over the singles row over here.
+
+02:37.960 --> 02:41.560
+Now let's talk about the splitting cells.
+
+02:42.250 --> 02:48.640
+Splitting cells LLC to divide a single cell into multiple cells.
+
+02:48.850 --> 02:55.990
+This can be useful for the separating data and adjusting layout of your spreadsheets.
+
+02:56.140 --> 02:57.900
+Let me demonstrate.
+
+02:58.140 --> 03:00.390
+So spelled your.
+
+03:00.780 --> 03:01.200
+First.
+
+03:01.200 --> 03:04.650
+You need to select the cells that you want to split.
+
+03:04.650 --> 03:11.850
+Like if I want to merge or if I want to spell this one, then go back to the again and to the merge
+
+03:11.850 --> 03:15.630
+and center server into the alignment group on the home tab.
+
+03:15.750 --> 03:24.500
+And this time, instead of the selecting Merge and center, click on the arrow row and next to it choose
+
+03:24.500 --> 03:26.450
+the unmarked cells.
+
+03:26.480 --> 03:33.980
+Okay, so Excel will automatically spill the merge cells back to the its original individual cells over
+
+03:33.980 --> 03:34.610
+here.
+
+03:35.030 --> 03:41.570
+And if I want to use also this one then go to the over here and use the Our cells index.
+
+03:41.570 --> 03:49.410
+So depending the on the content layout of your spreadsheets, you may need to adjust the columns and
+
+03:49.710 --> 03:50.190
+width.
+
+03:50.190 --> 03:55.050
+Uh, after splitting cells ensure anything uh, fits nicely.
+
+03:55.080 --> 03:58.590
+You can do this by clicking and dragging, like here.
+
+03:58.590 --> 04:05.400
+Or you can just drag in the columns under it to resize it, or you can easily make it or you can easily
+
+04:05.400 --> 04:06.060
+adjust it.
+
+04:06.060 --> 04:06.630
+Okay.
+
+04:06.630 --> 04:12.410
+So and there you have it, uh, you have learned how to merge and expelled cells in it.
+
+04:12.410 --> 04:19.580
+So these are essential techniques that can help you format your data more effectively and makes your
+
+04:19.640 --> 04:21.890
+spreadsheets looks more professional.
+
+04:21.890 --> 04:30.140
+So practicing using this feature in your own Excel project and will be coming or becoming a formation
+
+04:30.140 --> 04:32.180
+or formatting in no time.
+
+04:32.180 --> 04:35.630
+So thanks for watching and I will see you in the next video.
