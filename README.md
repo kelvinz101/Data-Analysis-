@@ -16,11 +16,9 @@
 This data analysis project aims to provide insight into the Netflix world over the years. This is done by analyzing various aspects of the company's uploads, genres and most watched movies or shows. In so doing, the primary objective, hence is to identify the most watched and liked geners and shows; the ratings and release date (year).
 
 ### Data Source(s):
-
-Netflix Data: The primary dataset used for this project is the "netflix_title.csv" file, containing detailed information about each upload from the company.
+- Netflix Data: The primary dataset used for this project is the "netflix_title.csv" file, containing detailed information about each upload from the company.
 
 ### Tool(s):
-
 - Excel - For data cleaning and formatting. [Download here](http://netflix.com)
 - SQL Server - Data Analysis.
 - Power BI - Creating reports.
@@ -28,25 +26,19 @@ Netflix Data: The primary dataset used for this project is the "netflix_title.cs
 ### Data Cleaning/Preparation
 
 #### Data cleaning involves several key steps:
-
 - Removing Duplicates: Identify and remove any duplicate entries to ensure accurate analysis.
 - Handling Missing Values: Analyze missing data and determine appropriate strategies (e.g., imputation or removal) to maintain data integrity.
 - Standardizing Formats: Ensure consistent formatting for key fields, such as dates and categorical variables.
 - Data Type Conversion: Convert data types where necessary (e.g., changing string representations of numbers to integers).
 
-
-
 ### Explanatory Data Analysis
 #### In this phase, we:
-
 - Explore Data Distribution: Use descriptive statistics to summarize key variables such as release years, ratings, and genre distributions.
 - Visualize Trends: Create initial visualizations (e.g., histograms, box plots) to identify patterns in the data, such as genre popularity over time.
 - Assess Correlations: Investigate relationships between ratings and viewership metrics to inform subsequent analysis.
 
-
 ### Data Analysis
 #### The analysis will focus on:
-
 - Genre Popularity: Utilize SQL queries to aggregate viewership data by genre, examining which genres have the highest engagement.
 - Top Titles: Identify the most-watched movies and shows, along with their average ratings.
 - Temporal Trends: Analyze how the number of uploads and viewership figures have evolved over the years, looking for significant changes in consumer preferences.
@@ -58,9 +50,7 @@ Netflix Data: The primary dataset used for this project is the "netflix_title.cs
 - Trends Over Time: Visualization of trends in genre popularity and upload rates from year to year.
 - Key Insights: Any noteworthy patterns or correlations discovered during the analysis.
 
-
 ### Recommendations
-
 - Content Strategy: Suggest genres that Netflix should focus on based on viewer preferences and trends.
 - Targeted Marketing: Recommend marketing strategies tailored to the most popular titles and genres.
 - Improving Ratings: Propose ways to enhance the quality of content in underperforming genres.
@@ -74,4 +64,4 @@ Netflix Data: The primary dataset used for this project is the "netflix_title.cs
 - Excel
 - MySQL
 - Power BI
-- ...
+- [Netflix_database.csv](http://netflix.com)
