@@ -18,8 +18,12 @@ This data analysis project aims to provide insight into the Netflix world over t
 ### Data Source(s):
 - Netflix Data: The primary dataset used for this project is the "netflix_title.csv" file, containing detailed information about each upload from the company.
 
+![Screenshot 2024-10-19 221946](https://github.com/user-attachments/assets/04eadbc3-58f4-4d89-aeed-b8656a414671)
+![Screenshot 2024-10-19 223352](https://github.com/user-attachments/assets/ccd3e410-4d16-4bbd-b054-806811ba9a39)
+
+
 ### Tool(s):
-- Excel - For data cleaning and formatting. [Download here](http://netflix.com)
+- Excel - For data cleaning and formatting. [Download here](https://github.com/user-attachments/files/17447407/netflix_titles.csv)
 - SQL Server - Data Analysis.
 - Power BI - Creating reports.
 
