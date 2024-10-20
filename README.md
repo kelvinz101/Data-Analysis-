@@ -38,7 +38,7 @@ This data analysis project aims to provide insight into the Netflix world over t
 ### Explanatory Data Analysis
 #### In this phase, we:
 - Explore Data Distribution: Use descriptive statistics to summarize key variables such as release years, ratings, and genre distributions.
-- Visualize Trends: Create initial visualizations (e.g., histograms, box plots) to identify patterns in the data, such as genre popularity over time.
+- Visualize Trends: Create initial visualizations to identify patterns in the data, such as genre popularity over time.
 - Assess Correlations: Investigate relationships between ratings and viewership metrics to inform subsequent analysis.
 
 ### Data Analysis
